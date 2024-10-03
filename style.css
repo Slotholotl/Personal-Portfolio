@@ -152,3 +152,5 @@ a:hover {
 .hamburger-icon.open span:last-child {
     transform: rotate(-45deg) translate(5px, -5px);  /* Rotates and moves the bar */
 }
+
+/* sections */
