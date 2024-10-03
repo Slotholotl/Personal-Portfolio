@@ -1,0 +1,12 @@
+/* Media query for screen sizes up to 1200px (e.g., tablets and smaller) */
+@media screen and (max-width: 1200px) {
+    /* Hide the desktop navigation when screen is smaller */
+    #desktop-nav {
+        display: none;
+    }
+
+    /* Display the hamburger navigation */
+    #hamburger-nav {
+        display: flex;
+    }
+}
