@@ -295,6 +295,7 @@ section {
     width: 50%;                /* Takes up 50% of the width (left side) */
     padding: 0px;             /* Adds some padding */
     box-sizing: border-box;     /* Ensures padding doesn't affect width */
+    gap: 8rem;
   }
   
   /* Div for images on the right */
